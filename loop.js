@@ -20,8 +20,8 @@ var angka=20;
 		}
 
 
-
-console.log('LOOP KEDUA');
+//tugas 2
+console.log('LOOP PERTAMA');
 for(var angka = 1; angka <=20; angka++) {
 	console.log(angka + ' - i love coding');
 }

@@ -37,7 +37,7 @@ for(var angka = 20; angka >=1; angka++) {
 //tugas 3
 //ganjil-genap
 for (var angka=1; angka<= 100; angka++) {
-	if(angka%20===0){
+	if(angka%2===0){
 		console.log('GENAP')
 	}
 
